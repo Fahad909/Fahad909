@@ -10,7 +10,7 @@ Moreover, Then you are at the right place. if you have any web design and web de
 
 Skills: HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel 
 
-✅ 🔭 I’m currently working on TechGhor.com 
+✅ 🔭 I’m currently working on TechGhor.com <br>
 ✅ 🌱 I’m currently learning Laravel 8 
 ✅ 👯 I’m looking to collaborate on TechGhor 
 ✅ 💬 Ask me about Web Development 
