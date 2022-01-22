@@ -11,9 +11,9 @@ Moreover, Then you are at the right place. if you have any web design and web de
 Skills: HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel 
 
 ✅ 🔭 I’m currently working on TechGhor.com <br>
-✅ 🌱 I’m currently learning Laravel 8 
-✅ 👯 I’m looking to collaborate on TechGhor 
-✅ 💬 Ask me about Web Development 
+✅ 🌱 I’m currently learning Laravel 8 <br>
+✅ 👯 I’m looking to collaborate on TechGhor <br>
+✅ 💬 Ask me about Web Development <br>
 ✅ 📫 How to reach me: Bangladesh, Comilla New Market, IT Park,  Shop No: 5119 (Level 5) 
 
 
