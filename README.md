@@ -8,7 +8,14 @@ First of all, I’m passionate about web design and development. I work a minimu
 
 Moreover, Then you are at the right place. if you have any web design and web development work, I'll do the job . I'll reply shortly. Thanks for your time.
 
-Skills:  HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel 
+🟩 My Skills List
+🟢 HTML <br>
+🟢 CSS <br>
+🟢 JS <br>
+🟢 Bootstrap <br> 
+🟢 PHP <br>
+🟢 MySQL <br>
+🟢 Laravel <br>
 
 ✅ 🔭 I’m currently working on TechGhor.com <br>
 ✅ 🌱 I’m currently learning Laravel 8 <br>
