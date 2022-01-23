@@ -16,9 +16,7 @@ Skills:  HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel
 ✅ 💬 Ask me about Web Development <br>
 ✅ 📫 How to reach me: Bangladesh, Comilla New Market, IT Park,  Shop No: 5119 (Level 5) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahad909&theme=solarized_dark)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fahad909)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-fahad-a92825214/) 
