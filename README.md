@@ -8,14 +8,14 @@ First of all, I’m passionate about web design and development. I work a minimu
 
 Moreover, Then you are at the right place. if you have any web design and web development work, I'll do the job . I'll reply shortly. Thanks for your time.
 
-🟩 My Skills List <br>
-🟢 HTML <br>
-🟢 CSS <br>
-🟢 JS <br>
-🟢 Bootstrap <br> 
-🟢 PHP <br>
-🟢 MySQL <br>
-🟢 Laravel <br>
+🟩  Skills & Experiance:
+🟢 HTML 
+🟢 CSS 
+🟢 JS 
+🟢 Bootstrap
+🟢 PHP 
+🟢 MySQL 
+🟢 Laravel 
 
 ✅ 🔭 I’m currently working on TechGhor.com <br>
 ✅ 🌱 I’m currently learning Laravel 8 <br>
@@ -23,7 +23,7 @@ Moreover, Then you are at the right place. if you have any web design and web de
 ✅ 💬 Ask me about Web Development <br>
 ✅ 📫 How to reach me: Bangladesh, Comilla New Market, IT Park,  Shop No: 5119 (Level 5) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahad909&theme=solarized_dark)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fahad909)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-fahad-a92825214/) 
@@ -33,13 +33,8 @@ Moreover, Then you are at the right place. if you have any web design and web de
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.techghor.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad909)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad909&show_icons=true&count_private=true)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahad909&theme=solarized_dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fahad909)  
 
-![GitHub metrics](https://metrics.lecoq.io/Fahad909)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fahad909)  
-
-![Profile views](https://gpvc.arturio.dev/Fahad909)  
