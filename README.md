@@ -8,7 +8,7 @@ First of all, I’m passionate about web design and development. I work a minimu
 
 Moreover, Then you are at the right place. if you have any web design and web development work, I'll do the job . I'll reply shortly. Thanks for your time.
 
-Skills: HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel 
+Skills:  HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel 
 
 ✅ 🔭 I’m currently working on TechGhor.com <br>
 ✅ 🌱 I’m currently learning Laravel 8 <br>
@@ -16,44 +16,7 @@ Skills: HTML / CSS / JS / Bootstrap / PHP / MySQL / Laravel
 ✅ 💬 Ask me about Web Development <br>
 ✅ 📫 How to reach me: Bangladesh, Comilla New Market, IT Park,  Shop No: 5119 (Level 5) 
 
-<style>
-  .button {
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 15px 31px;
-    border: 1px solid #401ac9;
-    border-radius: 8px;
-    background: #7830ff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#7830ff), to(#401ac9));
-    background: -moz-linear-gradient(top, #7830ff, #401ac9);
-    background: linear-gradient(to bottom, #7830ff, #401ac9);
-    -webkit-box-shadow: #903aff 0px 0px 40px 0px;
-    -moz-box-shadow: #903aff 0px 0px 40px 0px;
-    box-shadow: #903aff 0px 0px 40px 0px;
-    text-shadow: #260f77 1px 1px 1px;
-    font: normal normal bold 20px arial;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,
-.button:focus {
-    border: 1px solid ##4b1eed;
-    background: #903aff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#903aff), to(#4d1ff1));
-    background: -moz-linear-gradient(top, #903aff, #4d1ff1);
-    background: linear-gradient(to bottom, #903aff, #4d1ff1);
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:active {
-    background: #401ac9;
-    background: -webkit-gradient(linear, left top, left bottom, from(#401ac9), to(#401ac9));
-    background: -moz-linear-gradient(top, #401ac9, #401ac9);
-    background: linear-gradient(to bottom, #401ac9, #401ac9);
-}
-</style>
-<a class="button" href="#">FaceBook</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fahad909)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-fahad-a92825214/) 
